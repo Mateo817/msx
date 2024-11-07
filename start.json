@@ -1,6 +1,6 @@
 {    
-    "name": "Start StremioMSX",
+    "name": "Start Stream",
     "version": "1.0.0",
-    "parameter": "content:https://bartche.github.io/msx/data/content.json",
+    "parameter": "content:https://github.com/Mateo817/msx/blob/c357a608d28088b185f03af2ee10bfbbbe1a2eb3/data/content.json",
     "welcome": "none"
 }
